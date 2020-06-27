@@ -1,0 +1,14 @@
+{
+  "name": "processjs",
+  "version": "0.0.1",
+  "description": "A first pass at using Processing JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^0.10.2"
+  }
+}
